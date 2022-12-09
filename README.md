@@ -1,5 +1,5 @@
 # Introduction to Artificial Intelligence
-
+【 NYCU 2022 Spring Semester 】by Professor 陳奕廷
 ### Language and Tools
 Python, Sklearn
 
